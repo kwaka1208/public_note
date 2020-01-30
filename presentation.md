@@ -8,6 +8,7 @@
 - [world's largest pitch deck collection](https://www.alexanderjarvis.com/2015/05/19/pitch-deck-collection-from-vc-funded-startups)
 - [12 must-haves in the perfect 2-minute pitch](https://startups.co.uk/12-must-haves-in-the-perfect-2-minute-pitch/)
 - [VCや事業会社に投資してもらうためのピッチデック(プレゼン資料)に最低限入れるべき12のこと](https://reality.vc/blog/how_to_pitch_vc.html)
+- [基礎編総集 – 見やすく美しいパワーポイントを作るための基礎、そのすべてを一つにまとめました](https://thepopp.com/fundamentals-of-powerpoint/)
 
 ## 書籍
 資料の作成やトークの参考になる書籍
