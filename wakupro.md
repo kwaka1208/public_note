@@ -23,3 +23,17 @@ https://amazon.co.jp/dp/B01LX5VY8B/
 
 Studuinoではじめるうきうきロボットプログラミング
 https://amazon.co.jp/dp/B00Q6F0UGM/ 
+
+わくプロシリーズ以外に以下の書籍も無料でダウンロードできます。
+
+小学生からはじめる 整理整頓が身につく本 -セルフマネジメント-
+https://amazon.co.jp/dp/B018FUXHQK/
+
+小学生からはじめる 考える力が身につく本 -ロジカルシンキング-
+https://amazon.co.jp/dp/B014EWXBQ4/
+
+小学生からはじめる 伝える力が身につく本 -プレゼンテーション-
+https://www.amazon.co.jp/dp/B0113WS5H8/
+
+親子で学ぶ 国際教養が身につく本 -グローバル対応力-
+https://www.amazon.co.jp/dp/B01FF9435S/
