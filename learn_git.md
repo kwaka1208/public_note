@@ -9,7 +9,8 @@
 - [ここにアクセス](https://github.com/join)して、GitHubのアカウントを作成してください。
 
 ## 参考資料・サイト
-- [Git cheet sheet](https://github.github.com/training-kit/downloads/ja/github-git-cheat-sheet.pdf)
+- [Git cheet sheet日本語版](https://github.github.com/training-kit/downloads/ja/github-git-cheat-sheet.pdf)
+- [Git cheet sheet英語版](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial/)
 
 
