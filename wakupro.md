@@ -5,30 +5,19 @@
 
 アプリをダウンロードすればMac/Windows/iPadなどのタブレットで読むことができますので、この機会にダウンロードしておくことをおすすめします。ダウンロード無料期間は5月6日までですが、もちろん5月6日以降も読むことができます。
 
-各書籍のダウンロードは以下のURLから。
+各書籍のダウンロードは以下のリンクから。
 
-小学生からはじめるわくわくプログラミング
+[小学生からはじめるわくわくプログラミング](https://amazon.co.jp/dp/B00JKISD2A/)
 
-https://amazon.co.jp/dp/B00JKISD2A/
+[小学生からはじめるわくわくプログラミング２　Scratch 3.0版](https://amazon.co.jp/dp/B07W5BC4SB/)
 
-小学生からはじめるわくわくプログラミング２　Scratch 3.0版
+[小学生からはじめるわいわいタブレットプログラミング](https://amazon.co.jp/dp/B075XG349S/)
 
-https://amazon.co.jp/dp/B07W5BC4SB/
+[５才からはじめるすくすくプログラミング](https://amazon.co.jp/dp/B00OC6BYQC/)
 
-小学生からはじめるわいわいタブレットプログラミング
+[Raspberry Piではじめるどきどきプログラミング増補改訂第2版](https://amazon.co.jp/dp/B01LX5VY8B/)
 
-https://amazon.co.jp/dp/B075XG349S/
-
-５才からはじめるすくすくプログラミング
-
-https://amazon.co.jp/dp/B00OC6BYQC/
-
-Raspberry Piではじめるどきどきプログラミング増補改訂第2版
-
-https://amazon.co.jp/dp/B01LX5VY8B/
-
-Studuinoではじめるうきうきロボットプログラミング
-https://amazon.co.jp/dp/B00Q6F0UGM/ 
+[Studuinoではじめるうきうきロボットプログラミング](https://amazon.co.jp/dp/B00Q6F0UGM/)
 
 わくプロシリーズ以外に以下の書籍も無料でダウンロードできます。
 
@@ -36,15 +25,9 @@ https://amazon.co.jp/dp/B00Q6F0UGM/
 
 https://amazon.co.jp/dp/B018FUXHQK/
 
-小学生からはじめる 考える力が身につく本 -ロジカルシンキング-
+[小学生からはじめる 考える力が身につく本 -ロジカルシンキング-](https://amazon.co.jp/dp/B014EWXBQ4/)
 
-https://amazon.co.jp/dp/B014EWXBQ4/
+[小学生からはじめる 伝える力が身につく本 -プレゼンテーション-](https://www.amazon.co.jp/dp/B0113WS5H8/)
 
-小学生からはじめる 伝える力が身につく本 -プレゼンテーション-
-
-https://www.amazon.co.jp/dp/B0113WS5H8/
-
-親子で学ぶ 国際教養が身につく本 -グローバル対応力-
-
-https://www.amazon.co.jp/dp/B01FF9435S/
+[親子で学ぶ 国際教養が身につく本 -グローバル対応力-](https://www.amazon.co.jp/dp/B01FF9435S/)
 
